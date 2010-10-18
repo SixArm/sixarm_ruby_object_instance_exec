@@ -1,0 +1,12 @@
+
+= SixArm Ruby Gem: Object#instance_exec
+
+Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
+Copyright:: Copyright (c) 2006-2010 Joel Parker Henderson
+License:: CreativeCommons License, Non-commercial Share Alike
+License:: LGPL, GNU Lesser General Public License
+
+Gem wrapper around eigenclass.org source code for Object#instance_exec
+
+See http://eigenclass.org/hiki.rb?bounded+space+instance_exec
+
