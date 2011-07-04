@@ -1,3 +1,5 @@
+require 'simplecov'
+SimpleCov.start
 require 'test/unit'
 require 'sixarm_ruby_object_instance_exec'
 
