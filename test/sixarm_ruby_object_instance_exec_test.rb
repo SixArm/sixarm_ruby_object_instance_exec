@@ -1,6 +1,6 @@
 require 'simplecov'
 SimpleCov.start
-require 'test/unit'
+require 'minitest/autorun'
 require 'sixarm_ruby_object_instance_exec'
 
 # Original source at http://eigenclass.org/hiki.rb?bounded+space+instance_exec
