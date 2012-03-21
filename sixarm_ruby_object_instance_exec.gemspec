@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
 
   s.name              = "sixarm_ruby_object_instance_exec"
-  s.summary           = "SixArm Ruby Gem: Object#instance_exec(*args,&block) is like instance_eval with args"
+  s.summary           = "SixArm.com » Ruby » Object#instance_exec(*args,&block) is like instance_eval with args"
   s.version           = "1.0.4"
   s.author            = "SixArm"
   s.email             = "sixarm@sixarm.com"
