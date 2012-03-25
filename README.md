@@ -1,6 +1,7 @@
 # SixArm.com » Ruby » <br> Object#instance_exec
 
-* Docs: <http://sixarm.com/sixarm_ruby_object_instance_exec/doc>
+* Doc: <http://sixarm.com/sixarm_ruby_object_instance_exec/doc>
+* Gem: <http://rubygems.org/gems/sixarm_ruby_object_instance_exec>
 * Repo: <http://github.com/sixarm/sixarm_ruby_object_instance_exec>
 * Email: Joel Parker Henderson, <joel@sixarm.com>
 
