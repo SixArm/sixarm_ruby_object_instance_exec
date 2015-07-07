@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-require 'minitest/autorun'
-require 'simplecov'
+require "minitest/autorun"
+require "simplecov"
 SimpleCov.start
-require 'sixarm_ruby_object_instance_exec'
+require "sixarm_ruby_object_instance_exec"
 
 # Original source at http://eigenclass.org/hiki.rb?bounded+space+instance_exec
 class Testing < Test::Unit::TestCase
