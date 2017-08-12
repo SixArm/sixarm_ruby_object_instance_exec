@@ -1,4 +1,4 @@
-# Ruby » <br> Object#instance_exec
+SixArm.com → Ruby → <br> Object#instance_exec
 
 * Doc: <http://sixarm.com/sixarm_ruby_object_instance_exec/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_object_instance_exec>
