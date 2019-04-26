@@ -5,7 +5,7 @@ SimpleCov.start
 require "sixarm_ruby_object_instance_exec"
 
 # Original source at http://eigenclass.org/hiki.rb?bounded+space+instance_exec
-class Testing < Test::Unit::TestCase
+class Testing < Minitest::Test
 
   def test_instance_exec
     # Create a block that returns the value of an argument and a value
